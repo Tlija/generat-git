@@ -18,7 +18,7 @@ body{
   background: #3498DB;
 }
 .wrapper{
-  height: 265px;
+  height:340px ;
   max-width: 410px;
   background: #fff;
   border-radius: 7px;
@@ -70,7 +70,7 @@ header p{
 .qr-code{
   opacity: 0;
   display: flex;
-  padding: 33px 0;
+  padding: 7px 0;
   border-radius: 5px;
   align-items: center;
   pointer-events: none;
